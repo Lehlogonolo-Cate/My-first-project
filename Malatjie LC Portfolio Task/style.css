@@ -1,0 +1,39 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: blue;
+}
+p{
+    color: crimson;
+}
+.cate{
+    vertical-align: right;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+
+#SchoolsID li{
+    background-color: darkorange;
+    padding-block: 6px;
+    margin: 6px;
+}
+
+ul{
+    list-style: georgian;
+}
+.TheMain{
+    background-color: darkorchid;
+}
+h1{
+    font-size: large;
+}
+#languangesID li{
+    background-color: darkgray;
+    padding: 8px;
+    margin: 8px;
+}
+.footer{
+    font-size: large;
+}
